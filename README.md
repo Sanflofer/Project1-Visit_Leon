@@ -12,7 +12,11 @@ Initially I wanted it to be as intuitive and easy to navigate, allowing users to
 
 When developing a style concept, I experimented with different designs and layouts. I then identified the following structure, which I initially designed on paper:
 
-PLACE DESIGN PicTURE HERE!!
+![IMG_20230228_123904](https://user-images.githubusercontent.com/117228150/221955254-d99857e8-4704-483e-8311-3f244700e636.jpg)
+
+![IMG_20230228_124027](https://user-images.githubusercontent.com/117228150/221955372-c485f6d4-393e-4939-94eb-54329fadb1ce.jpg)
+
+![IMG_20230228_124120](https://user-images.githubusercontent.com/117228150/221955470-8be32be3-4013-4922-a7a6-73a3644042fd.jpg)
 
 I thought it was important to have a very straightforward, and simple, menu on the right-hand side of the page, so that visitors could easily access all the content they needed with a quick click of the mouse. The menu also acts as a glossary, outlining the topics being presented.
 
@@ -53,7 +57,7 @@ Unfortunately, the photos I have used to create the title bar doesn’t adjust t
 ## DEPLOYMENT:
 
 I have hosted the project on github pages, which can be accessed through:
-[https://github.com/Sanflofer/Project1-Visit_Leon}(https://github.com/Sanflofer/Project1-Visit_Leon)
+[https://github.com/Sanflofer/Project1-Visit_Leon](https://github.com/Sanflofer/Project1-Visit_Leon)
 
 ## REFERENCES:
 
