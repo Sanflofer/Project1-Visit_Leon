@@ -53,7 +53,7 @@ Unfortunately, the photos I have used to create the title bar doesn’t adjust t
 ## DEPLOYMENT:
 
 I have hosted the project on github pages, which can be accessed through:
-
+[https://github.com/Sanflofer/Project1-Visit_Leon}(https://github.com/Sanflofer/Project1-Visit_Leon)
 
 ## REFERENCES:
 
