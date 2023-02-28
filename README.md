@@ -12,7 +12,7 @@ Initially I wanted it to be as intuitive and easy to navigate, allowing users to
 
 When developing a style concept, I experimented with different designs and layouts. I then identified the following structure, which I initially designed on paper:
 
-PLACE DESIGN PICTURE HERE!!
+PLACE DESIGN PicTURE HERE!!
 
 I thought it was important to have a very straightforward, and simple, menu on the right-hand side of the page, so that visitors could easily access all the content they needed with a quick click of the mouse. The menu also acts as a glossary, outlining the topics being presented.
 
@@ -32,11 +32,11 @@ I have included pictures of “must-sees” and “must-haves”, which gives gr
 
 ## TECHNOLOGIES:
 
--HTML has been utilised to create the all important content, which then supports the overall website structure you see.
--CSS is used to apply styling to the website pages.
--Git was used to apply version control to my project.
--Google Fonts to import all types of fonts, therefore, making my website impactful and exciting.
--Font Awesome to import icons to support social media links.
+- HTML has been utilised to create the all important content, which then supports the overall website structure you see.
+- CSS is used to apply styling to the website pages.
+- Git was used to apply version control to my project.
+- Google Fonts to import all types of fonts, therefore, making my website impactful and exciting.
+- Font Awesome to import icons to support social media links.
 
 ## TESTING:
 
@@ -62,5 +62,5 @@ I used pixabay.com and latabernadegaia.com for most of the pictures.
 
 ## CREDITS:
 
-To my mentor and all the Code Institute staff who have had the patience to assist and help me in this project.
+To my mentor and all the Code Institute staff who have had the patience to assist and help me in this project, and to my husband, for insuring my grammar was correct.
  
