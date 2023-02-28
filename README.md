@@ -1,156 +1,70 @@
-USER EXPERIENCE
+# VISIT LEON
 
- -User stories
+## INTRODUCTION:
 
-    -First Time Visitor Goals
-As a First Time Visitor, I want to 
-As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-As a First Time Visitor, I want to look for
+My website concept is to promote the city of Leon, a city proudly found in the North of Spain, and specifically the city to which I grew up in. Tourism is mainly focused on Portuguese and French tourists, however, there have recently been an increasing number of visitors from English speaking countries, like the United Kingdom and United States of America. Noticeably, there aren’t as many touristic materials available in the English language, therefore, I decided to focus my attention for this project on designing a comprehensive visitors guide, thereby, listing all key features of the city and the so called “must-sees” and “must-haves” within the city of Leon. I have also chosen to include the “must-stays”, therefore, reducing the stress some tourists may experience when trying to find accommodation to book.
 
-    -Returning Visitor Goals
-As a Returning Visitor, I want to find information about 
-As a Returning Visitor, I want to find 
-As a Returning Visitor, I want to find 
+I think there is a strong need to provide an easier way for tourists to find key information on the city, therefore, helping them to make decisions during their visit, for example, where to stay, what to visit and what or where to have some wonderful local tapas, and this was my primary objective. Since tapas is part of the culture and lifestyle of the inhabitants of Leon, and Spain in general, I wanting to promote this as much as possible in my website.
 
-    -Frequent User Goals
-As a Frequent User, I want to check to see if ....
+## DESIGN:
 
--Design
-    -Colour Scheme
-The two main colours used are Code Insititue ... 
+Initially I wanted it to be as intuitive and easy to navigate, allowing users to find all the information that would support a great stay in a beautiful part of Spain. 
 
-    -Typography
-The .... font is the main font used throughout the whole website with .... as the fallback font in case for any reason the font isn't being imported into the site correctly. ... is a clean font used frequently in programming, so it is both attractive and appropriate.
+When developing a style concept, I experimented with different designs and layouts. I then identified the following structure, which I initially designed on paper:
 
-    -Imagery
-Imagery is important. The large, background .... image is designed to be ....... It also has a ....
+![IMG_20230228_123904](https://user-images.githubusercontent.com/117228150/221972706-d547e065-3e73-497b-a166-525dbbee3d8e.jpg)
 
-FEATURES
-Responsive on all device sizes
-Interactive elements
+![IMG_20230228_124027](https://user-images.githubusercontent.com/117228150/221973106-05395d04-dd38-40a1-9d37-1ebf7b13f68e.jpg)
 
-TECHNOLOGIES USED
+![IMG_20230228_124120](https://user-images.githubusercontent.com/117228150/221973331-0d3bb54d-4d2d-4a96-a2c7-760d9ab80c6a.jpg)
 
- -Languages Used
-HTML5
-CSS3
+I thought it was important to have a very straightforward, and simple, menu on the right-hand side of the page, so that visitors could easily access all the content they needed with a quick click of the mouse. The menu also acts as a glossary, outlining the topics being presented.
 
- -Frameworks, Libraries & Programs Used
-    -Bootstrap 4.4.1:
-Bootstrap was used to assist with the responsiveness and styling of the website.
-    -Hover.css:
-Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
-    -Google Fonts:
-Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
-    -Font Awesome:
-Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-    -jQuery:
-jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
-    -Git
-Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-    -GitHub:
-GitHub is used to store the projects code after being pushed from Git.
+I decided to apply the same colours throughout the three page of information, as I thought it was important to continue with the same style, thereby, enforcing a sense of continuity throughout my website branding.
 
-TESTING
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+I decided to apply blue font colouring to my titles and apply a lilac background to the whole page. Additionally, I incorporated the colour turquoise to underline the menu. The main reasoning behind this was so that the page remained striking and distinctive in form, and easily identifiable. I wanted to portray a sense of coolness and calmness throughout my design, and not add bold and brash colours. My aim was to create an experience which felt relaxing and chilling, which in essence matches the general vibe and feeling of the city as a whole. Likewise, I chose the fonts Ubuntu and Nunito which are clasical styles with a modern twist.
 
-    -W3C Markup Validator - Results
-    -W3C CSS Validator - Results
+I have included pictures of “must-sees” and “must-haves”, which gives great incite into what to expect, but by using partially visibility or long-range image captures, this gives opportunity for imagination. Tourists can then use this incite, however, the surprise factor when they actually see it with their own eyes will remain impactful.
 
- -Testing User Stories from User Experience (UX) Section
-    -First Time Visitor Goals
-As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+## FEATURES:
 
-Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text and a "Learn More" Call to action button.
-The main points are made immediately with the hero image
-The user has two options, click the call to action buttons or scroll down, both of which will lead to the same place, to learn more about the organisation.
-As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+- Visit: This section includes the most important monuments or places, the so called “must-sees” to visit within the city. The purpose of this section was to assist tourists in finding touristic highlights, which may be of interest to them. This also facilitates and supports tourists in seeking out and gathering more information through the provided links. Whenever I visit a new place, I immediately check-out key sites to visit, and I wanted this to be a fundamental element to my website for its users.
 
-The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
-At the bottom of the first 3 pages there is a redirection call to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
-On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
-As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
+- Eat: The section explores the cultural elements of the city to its fullest. A selection of the most well-known tapas bars in the city are on show here, promoting the “must-haves” in local cuisine. The purpose of this page is to provide tourists with a general understanding of what true tapas looks like, so that they may have greater understanding of what-to-eat and what-to-expect when visiting some of the amazing bars on offer throughout the city.
 
-Once the new visitor has read the About Us and What We Do text, they will notice the Why We are Loved So Much section.
-The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
-At the bottom of the Contact Us page, the user is told underneath the form, that alternatively they can contact the organisation on social media which highlights the links to them.
+- Sleep: With any tourist guide, providing a list of the most popular hotels within a city can instil a sense of confidence in visitors. When being a tourist in another country myself, I like to book based on recommendation and official promotions. The purpose of this page is to assist tourists in choosing the most suitable placed hotel to stay, based on its location, their price expectation and any specific commodities that may be of necessity to them.
 
-    -Returning Visitor Goals
+## TECHNOLOGIES:
 
-As a Returning Visitor, I want to find the new programming challenges or hackathons.
+- HTML has been utilised to create the all important content, which then supports the overall website structure you see.
+- CSS is used to apply styling to the website pages.
+- Git was used to apply version control to my project.
+- Google Fonts to import all types of fonts, therefore, making my website impactful and exciting.
+- Font Awesome to import icons to support social media links.
 
-These are clearly shown in the banner message.
-They will be directed to a page with another hero image and call to action.
-As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+## TESTING:
 
-The navigation bar clearly highlights the "Contact Us" Page.
-Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
-The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
-Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
-The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
-As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
+I have completed rigorous and continuous testing after each and every change made, for example, when testing all external and internal links, and also when sizing and positioning all the included pictures. This allows me to guarantee that everything remains cohesive and well balanced throughout the page.
 
-FURTHER TESTING
-The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
-The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
-A large amount of testing was done to ensure that all pages were linking correctly.
-Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+I used web developer tools to ensure the website was responsive to user interaction and W3C Validator to ensure there were no concerning errors on HTML and CSS. This was vital as the website could suffer significant inoperability when launched, thereby, substantially affecting user experience.
 
-KNOWN BUGS
+I have tested the website on different web browsers, including Chrome, Firefox and Safari, and all have generated very positive results.
+
+## BUGS:
+
+Unfortunately, the photos I have used to create the title bar doesn’t adjust to a phone screen size in the way I was expecting it to. It appears too wide, therefore, the full image cannot be seen in its fullest form. Following mentors guidance, I could improve this, however, not to the extent I had envisaged in the first place. I need to obtain further training or conduct additional knowledge development in this area.
+
+## DEPLOYMENT:
+
+I have hosted the project on github pages, which can be accessed through:
+[https://github.com/Sanflofer/Project1-Visit_Leon](https://github.com/Sanflofer/Project1-Visit_Leon)
 
 
-DEPLOYMENT
-    -GitHub Pages
-The project was deployed to GitHub Pages using the following steps...
+## REFERENCES
 
-1.Log in to GitHub and locate the GitHub Repository
-2.At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-Alternatively Click Here for a GIF demonstrating the process starting from Step 2.
-3.Scroll down the Settings page until you locate the "GitHub Pages" Section.
-4.Under "Source", click the dropdown called "None" and select "Master Branch".
-5.The page will automatically refresh.
-6.Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+I used Wikipwedia and specific webpages for all the hotels, bars and tourist information.
+I used pixabay.com and latabernadegaia.com for most of the pictures.
 
-    -Forking the GitHub Repository
-By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+## CREDITS
 
-Log in to GitHub and locate the GitHub Repository
-At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
-You should now have a copy of the original repository in your GitHub account.
-
-    -Making a Local Clone
-Log in to GitHub and locate the GitHub Repository
-Under the repository name, click "Clone or download".
-To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
-Open Git Bash
-Change the current working directory to the location where you want the cloned directory to be made.
-Type git clone, and then paste the URL you copied in Step 3.
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-Press Enter. Your local clone will be created.
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-> Cloning into `CI-Clone`...
-> remote: Counting objects: 10, done.
-> remote: Compressing objects: 100% (8/8), done.
-> remove: Total 10 (delta 1), reused 10 (delta 1)
-> Unpacking objects: 100% (10/10), done.
-Click Here to retrieve pictures for some of the buttons and more detailed explanations of the above process.
-
-CREDITS
-    -Code
-The full-screen hero image code came from this StackOverflow post
-
-Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
-
-MDN Web Docs : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found Here
-
-    -Content
-All content was written by the developer.
-
-
-    -Media
-
-
-    -Acknowledgements
-My Mentor for continuous helpful feedback.
-
-Tutor support at Code Institute for their support.
+To my mentor and all the Code Institute staff who have had the patience to assist and help me in this project, and to my husband, who made sure the grammar was correct.
