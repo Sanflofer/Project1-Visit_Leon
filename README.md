@@ -21,10 +21,3 @@ REFERENCES
 
 Features (what pages does it contain and what's the purpose?), 
 
-Technologies, 
-
-Testing, 
-
-Deployment, 
-
-References
