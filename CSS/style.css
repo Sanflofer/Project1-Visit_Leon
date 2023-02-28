@@ -90,7 +90,7 @@ hr {
 #title-image {
     clear: both;
     column-count: 3;
-    height: 400px;
+    height: 350px;
     width: 100%;
     column-gap: 0;   
 }
@@ -159,10 +159,10 @@ footer {
 @media screen and (max-width: 1200px) {
     #title-image {
     clear: both;
-    column-count: 3;
-    width: 65%;
-    column-gap: 0;
-    float: center;
+    column-count: 2;
+    column-gap: 0; 
+    width: 50%;
+    
 }
 
 #p-style, #image-style {
@@ -203,4 +203,14 @@ footer {
  hr{
     display: none;
  }
+}
+
+@media screen and (max-width: 960px){
+    #title-image {
+        clear: both;
+        column-count: 1;
+        column-gap: 0;
+        padding-bottom: 5px;
+            }
+
 }
